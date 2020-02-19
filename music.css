@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+Artist > Name{
+	display:block;
+	padding-bottom: 10px;
+	border-bottom: .7px solid #333;
+	font-family:"Gill Sans", Helvetica, Arial, "sans-serif"}
+Name {display:block; font-size: 22px; }
+Songs {
+    display:block;
+    margin-left: 10px;
+}
+Album Name{
+    display:block;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: .7px solid #333;
+    font-weight: 700;
+}
+Song {
+    display:block;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: .7px solid #333;}
+
+Title {display:block; font-size: 18px; }
+Genre,Year {font-style: italic; font-size: 16px;}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "music.css"?>
+<Songs>
+    <Artist>
+        <Name>Foreground Eclipse</Name>
+        <Album>
+            <Name>Tears Will Become Melodies Tonight</Name>
+            <Songs>
+                <Song>
+                    <Title>Are You Ready To Fall Into Falls</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2010</Year>
+                </Song>
+                <Song>
+                    <Title>Fall Of Tears</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2010</Year>
+                </Song>
+                <Song>
+                    <Title>Flames Within These Black Feathers</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2010</Year>
+                </Song>
+                <Song>
+                    <Title>Angels, Monsters, The Secret Lyrics</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2010</Year>
+                </Song>
+                <Song>
+                    <Title>Iris</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2010</Year>
+                </Song>
+                <Song>
+                    <Title>Magus Night</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2010</Year>
+                </Song>
+            </Songs>
+        </Album>
+        <Album>
+            <Name>Each And Every Word Leaves Me Here Alone</Name>
+            <Songs>
+                <Song>
+                    <Title>You Can't Explain Anything Without The Word 'Destruction'</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2011</Year>
+                </Song>
+                <Song>
+                    <Title>Destruction</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2011</Year>
+                </Song>
+                <Song>
+                    <Title>Obstruction! Color It All Out</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2011</Year>
+                </Song>
+                <Song>
+                    <Title>I Bet You'll Forget That Even If You Noticed That</Title>
+                    <Genre>Metalcore</Genre>
+                    <Year>2011</Year>
+                </Song>
+            </Songs>
+        </Album>
+    </Artist>
+</Songs>
